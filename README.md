@@ -5,7 +5,7 @@
 A former Junior Doctor turned programmer.
 
 Pronouns: he/him <br>
-Currently working on: a budgeting app using object-oriented python. <br>
+Currently working on: a Pokemon REST API using Spring framework <br>
 Currently studying: at QA Academy's DFE Software Development bootcamp, sepcialising in Java and Python.
 
 ---
